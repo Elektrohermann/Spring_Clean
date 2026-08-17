@@ -6,6 +6,7 @@ Current Features:
 1. Delting things in %temp%
 2. Emptying Recycle Bin
 3. Deletes leftover useless stuff from old Windows updates
+4. Deleting Thumbnail-Cache
 
 WARNING!!!
 Right now as soon as you start the programm it will run the cleaning process wthout asking, only open the programm if you really want to clean i
