@@ -2,7 +2,11 @@ Free Cleaning Software for your PC, to always have enough space for things you a
 
 This Project is far from finished, and alot of features will be added. Please keep that in mind 
 
-Current Features:
+Version 0.1.3
+Whats new?
+Deleting Thumbnail Cache
+
+Current Cleaning Features:
 1. Delting things in %temp%
 2. Emptying Recycle Bin
 3. Deletes leftover useless stuff from old Windows updates
