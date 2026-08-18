@@ -2,9 +2,9 @@ Free Cleaning Software for your PC, to always have enough space for things you a
 
 This Project is far from finished, and alot of features will be added. Please keep that in mind 
 
-Version 0.1.3
+Version 0.2.0
 Whats new?
-Deleting Thumbnail Cache
+Button to start Cleaning controlled
 
 Current Cleaning Features:
 1. Delting things in %temp%
@@ -12,6 +12,4 @@ Current Cleaning Features:
 3. Deletes leftover useless stuff from old Windows updates
 4. Deleting Thumbnail-Cache
 
-WARNING!!!
-Right now as soon as you start the programm it will run the cleaning process wthout asking, only open the programm if you really want to clean i
-also: Execute As Admin some files need admin hopefully i can fix this
+Note Execute As Admin some files need admin hopefully i can fix this
