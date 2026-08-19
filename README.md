@@ -5,6 +5,7 @@ This Project is far from finished, and alot of features will be added. Please ke
 Version 0.2.0
 Whats new?
 Button to start Cleaning controlled
+Messagebox dialouge
 
 Current Cleaning Features:
 1. Delting things in %temp%
