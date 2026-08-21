@@ -2,17 +2,13 @@
 
 ## Free Cleaning Software for your PC, to always have enough space for things you actually want 
 
-Note: Execute As Admin some files need admin hopefully i can fix this
-
 This Project is <ins>**far from finished**</ins> , and alot of features will be added. Please keep that in mind
 
 
-## Version 0.2.1
+## Version 0.3.0
 
 ### Whats new?
-Button to start Cleaning controlled
-
-Messagebox dialouge
+Automatically excute as admin to delete fies more effectively
 
 
 ### Current Cleaning Features:
