@@ -5,10 +5,12 @@
 This Project is <ins>**far from finished**</ins> , and alot of features will be added. Please keep that in mind
 
 
-## Version 0.3.0
+## Version 0.3.1
 
 ### Whats new?
 Automatically excute as admin to delete fies more effectively
+
+Custom Icon
 
 
 ### Current Cleaning Features:
