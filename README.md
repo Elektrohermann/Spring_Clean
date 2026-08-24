@@ -1,9 +1,6 @@
 Ignore this thats just smth i want to try and personalize for my use
 
-Here’s a complete, safe, and efficient C# program that searches your entire PC for files of a specific type (extension), while skipping system and restricted folders to avoid access errors.
-It uses Directory.EnumerateFiles with recursion and robust error handling.
-
-Csharpusing System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 
